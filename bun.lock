@@ -1,0 +1,14 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "alfred-shopsavvy",
+      "dependencies": {
+        "@shopsavvy/sdk": "latest",
+      },
+    },
+  },
+  "packages": {
+    "@shopsavvy/sdk": ["@shopsavvy/sdk@1.0.2", "", {}, "sha512-vfAb+9SiLhHxtd9qZCLpMR1DGcl6Aa4PXTRPEMZX/rxW5AY2R1doAJkoZ7+uTMQqJ1kV57GvH1/6LOMsP+tnOQ=="],
+  }
+}

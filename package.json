@@ -1,0 +1,9 @@
+{
+  "name": "alfred-shopsavvy",
+  "version": "1.0.0",
+  "description": "Alfred workflow for ShopSavvy product search and price comparison",
+  "dependencies": {
+    "@shopsavvy/sdk": "latest"
+  },
+  "license": "MIT"
+}
